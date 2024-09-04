@@ -1,9 +1,9 @@
 #ifndef LIBFT.H
-#define LIBFT.H
-//Includes
-#include <unistd.h>
-#include <stdlib.h>
+# define LIBFT .H
+// Includes
+# include <stdlib.h>
+# include <unistd.h>
 
-//Functions
+// Functions
 
 #endif
